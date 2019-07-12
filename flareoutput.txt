@@ -1,0 +1,90 @@
+Chosen Interval: 10
+Chosen threshold for detection: 1e-07
+===========
+Solar Flare #1
+Start time: 2016-08-07 13:40:00.000
+End time:   2016-08-07 13:50:00.000
+The max peak index is at: 
+2016-08-07 13:40:00.000
+The value at this time is: 
+2.0132e-07
+
+Solar Flare #2
+Start time: 2016-08-07 14:40:00.000
+End time:   2016-08-07 15:00:00.000
+The max peak index is at: 
+2016-08-07 14:50:00.000
+The value at this time is: 
+3.8003e-07
+
+Solar Flare #3
+Start time: 2016-08-07 15:10:00.000
+End time:   2016-08-07 15:20:00.000
+The max peak index is at: 
+2016-08-07 15:10:00.000
+The value at this time is: 
+1.0326e-06
+
+Solar Flare #4
+Start time: 2016-08-07 21:50:00.000
+End time:   2016-08-07 22:00:00.000
+The max peak index is at: 
+2016-08-07 21:50:00.000
+The value at this time is: 
+2.2708000000000002e-07
+
+Solar Flare #5
+Start time: 2016-08-07 22:30:00.000
+End time:   2016-08-07 22:40:00.000
+The max peak index is at: 
+2016-08-07 22:30:00.000
+The value at this time is: 
+6.231100000000001e-07
+
+Solar Flare #6
+Start time: 2016-08-08 03:00:00.000
+End time:   2016-08-08 03:10:00.000
+The max peak index is at: 
+2016-08-08 03:00:00.000
+The value at this time is: 
+5.0325e-07
+
+Solar Flare #7
+Start time: 2016-08-08 09:20:00.000
+End time:   2016-08-08 09:30:00.000
+The max peak index is at: 
+2016-08-08 09:20:00.000
+The value at this time is: 
+2.5321e-07
+
+Solar Flare #8
+Start time: 2016-08-08 10:40:00.000
+End time:   2016-08-08 11:00:00.000
+The max peak index is at: 
+2016-08-08 10:40:00.000
+The value at this time is: 
+2.1116e-07
+
+Solar Flare #9
+Start time: 2016-08-09 00:40:00.000
+End time:   2016-08-09 00:50:00.000
+The max peak index is at: 
+2016-08-09 00:40:00.000
+The value at this time is: 
+8.560600000000002e-07
+
+Solar Flare #10
+Start time: 2016-08-11 16:40:00.000
+End time:   2016-08-30 14:40:00.000
+The max peak index is at: 
+2016-08-11 16:40:00.000
+The value at this time is: 
+2.0840999999999997e-07
+
+Solar Flare #11
+Start time: 2016-08-30 18:30:00.000
+End time:   2016-08-31 20:30:00.000
+The max peak index is at: 
+2016-08-30 18:40:00.000
+The value at this time is: 
+2.5878e-07

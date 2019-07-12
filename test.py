@@ -1,9 +1,7 @@
 import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
 
-with open('flare.csv') as f:
-    for i, line in enumerate(f):
-        if line.startswith('data:'):
-            break
-df = pd.read_csv('flare.csv', skiprows=i+1)
-print(df.head())
-df.to_csv('out.csv', index=False)
+df = pd.read_csv('workingData.csv')
+df['A_AVG'].plot()
+plt.show()
